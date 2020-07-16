@@ -1,8 +1,8 @@
 {
-  "name": "Start on Heroku: Python",
-  "description": "A barebones Python app, which can easily be deployed to Heroku.",
+  "name": "Virginia Tech Tech Together Campaign",
+  "description": "A Virginia Tech Tech Together Campaign Application Proposal",
   "image": "heroku/python",
-  "repository": "https://github.com/heroku/python-getting-started",
+  "repository": "https://github.com/chenyuan99/python-getting-started",
   "keywords": ["python", "django" ],
   "addons": [ "heroku-postgresql" ],
   "env": {
